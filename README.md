@@ -10,6 +10,4 @@ Funções e recursividade
 
 Manipulação de strings, listas e arquivos
 
-Algoritmos de busca, ordenação e análise de complexidade
-
-Os scripts estão organizados por semana e seguem a sequência do curso.
+Os scripts estão organizados por modulos e seguem a sequência do curso.
